@@ -1,8 +1,5 @@
 # Taller07
 ## Parte 1
-* Subir las evidencias de los revisados en la carpeta revisados-clase-07 (del día miércoles y jueves), en formato imagen o pdf
-
-## Parte 2
 
 ### Taller 7 (Laboratorio): Construcción de programas usando estructuras de control repetitivas (while)
 * Por cada problemática crear un proyecto en Netbeans.
