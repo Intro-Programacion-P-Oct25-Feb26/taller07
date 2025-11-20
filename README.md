@@ -35,7 +35,6 @@ Promedio de edades:  26.8
 Promedio de estaturas: 1.87
 ```
 
-**Atención**: tomar como base el archivo llamado **Ejemplo05.java** de la carpeta **ayuda**
 
 ### Problema02 (use while)
 * Generar  e imprimir la siguiente serie:
@@ -52,6 +51,7 @@ Promedio de estaturas: 1.87
 90
 110
 ```
+Para imprimir el reporte (usar una cadena de acumulación):
 
 
 ### Problema03 (use while)
@@ -65,6 +65,7 @@ Promedio de estaturas: 1.87
 26
 37
 ```
+Para imprimir el reporte (usar una cadena de acumulación):
 
 ### Problema04  (use while)
 * Generar, imprimir  y obtenga el resultado de la serie:
@@ -74,3 +75,4 @@ Promedio de estaturas: 1.87
 1 - 1/3 + 1/5 - 1/7 + 1/9 - 1/11 + 1/13 - 1/15
 
 ```
+Para imprimir el reporte (usar una cadena de acumulación):
